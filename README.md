@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🦉
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=markusbkk&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Stats](https://github-readme-streak-stats.herokuapp.com/?user=markusbkk)
+[![trophy](https://github-profile-trophy.vercel.app/?username=markusbkk)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **markusbkk/markusbkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
