@@ -4,6 +4,9 @@
 ![Profile Stats](https://github-readme-streak-stats.herokuapp.com/?user=markusbkk)
 [![trophy](https://github-profile-trophy.vercel.app/?username=markusbkk)](https://github.com/ryo-ma/github-profile-trophy)
 
+<img alt="Gear-Rocki-Robot-cat" src=https://user-images.githubusercontent.com/113343009/190380499-d44493ef-ac96-4f91-bc76-42d7110cc4e7.jpg width=98%/>
+
+
 <!--
 **markusbkk/markusbkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
