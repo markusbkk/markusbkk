@@ -1,6 +1,6 @@
 ### Hi there 🦉
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=markusbkk&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=markusbkk&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Stats](https://github-readme-streak-stats.herokuapp.com/?user=markusbkk)
 [![trophy](https://github-profile-trophy.vercel.app/?username=markusbkk)](https://github.com/ryo-ma/github-profile-trophy)
 
